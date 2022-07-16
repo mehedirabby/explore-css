@@ -1,0 +1,19 @@
+.container{
+    width: 150px;
+    height: 150px;
+    border: 2px solid khaki;
+    
+}
+.container{
+    background-color: lightgreen;
+}
+.inner{
+    width: 150px;
+    height: 150px;
+    border: 2px solid khaki;
+    
+background-color: lightcoral;
+
+transform: scale(0.65) rotate(45deg) translate(0px,50px);
+
+}
